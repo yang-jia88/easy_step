@@ -1,10 +1,15 @@
-# 0428課程介紹
-##
-請執行``def sample.py``<br/>你好 請按離開鍵退出
+# 學習筆記
+## 研究所前的數據抓取練習
+## 一些模組語法使用
+請使用``clone``<br/>
 ```````````````````````
-print(a+b)
+git init
+git add .
+git status 
+git commit -m ""
+git push
 `````````````````````````````````````
-![this is our president](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1asxzy.img?w=768&h=512&m=6&x=358&y=161&s=0&d=0)!
-|ssss|dsdsd|dfdfsds|
+
+|0317|0417|0617|
 |----|-----|-------|
-|d|d|b
+|基礎練習|模組練習|可能是ml|
